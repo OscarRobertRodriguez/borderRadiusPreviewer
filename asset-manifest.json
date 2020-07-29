@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/OscarRobertRodriguez/borderRadiusPreviewer/static/css/main.5f361e03.chunk.css",
+    "main.js": "/OscarRobertRodriguez/borderRadiusPreviewer/static/js/main.02e9c2fd.chunk.js",
+    "main.js.map": "/OscarRobertRodriguez/borderRadiusPreviewer/static/js/main.02e9c2fd.chunk.js.map",
+    "runtime-main.js": "/OscarRobertRodriguez/borderRadiusPreviewer/static/js/runtime-main.72bb1435.js",
+    "runtime-main.js.map": "/OscarRobertRodriguez/borderRadiusPreviewer/static/js/runtime-main.72bb1435.js.map",
+    "static/js/2.1b5dd36d.chunk.js": "/OscarRobertRodriguez/borderRadiusPreviewer/static/js/2.1b5dd36d.chunk.js",
+    "static/js/2.1b5dd36d.chunk.js.map": "/OscarRobertRodriguez/borderRadiusPreviewer/static/js/2.1b5dd36d.chunk.js.map",
+    "index.html": "/OscarRobertRodriguez/borderRadiusPreviewer/index.html",
+    "precache-manifest.000a04d0aa14afcb8450de2373d81061.js": "/OscarRobertRodriguez/borderRadiusPreviewer/precache-manifest.000a04d0aa14afcb8450de2373d81061.js",
+    "service-worker.js": "/OscarRobertRodriguez/borderRadiusPreviewer/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/OscarRobertRodriguez/borderRadiusPreviewer/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.1b5dd36d.chunk.js.LICENSE.txt": "/OscarRobertRodriguez/borderRadiusPreviewer/static/js/2.1b5dd36d.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/OscarRobertRodriguez/borderRadiusPreviewer/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.72bb1435.js",
+    "static/js/2.1b5dd36d.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.02e9c2fd.chunk.js"
+  ]
+}
